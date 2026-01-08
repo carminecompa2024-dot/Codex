@@ -1,0 +1,152 @@
+[
+  {
+    "city": "Rome",
+    "food": "Spaghetti alla Carbonara",
+    "description": "Silky egg-and-pecorino sauce with guanciale and black pepper.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Spaghetti_alla_Carbonara_%28cropped%29.jpg"
+  },
+  {
+    "city": "Milan",
+    "food": "Risotto alla Milanese",
+    "description": "Creamy risotto scented with saffron and butter.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Risotto_alla_milanese.jpg"
+  },
+  {
+    "city": "Naples",
+    "food": "Pizza Napoletana",
+    "description": "Soft, charred crust with tomato, mozzarella, and basil.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+  },
+  {
+    "city": "Florence",
+    "food": "Bistecca alla Fiorentina",
+    "description": "Thick-cut T-bone steak grilled over hot coals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bistecca_alla_fiorentina.jpg"
+  },
+  {
+    "city": "Venice",
+    "food": "Sarde in Saor",
+    "description": "Sweet-and-sour sardines with onions, raisins, and pine nuts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sarde_in_saor.jpg"
+  },
+  {
+    "city": "Bologna",
+    "food": "Tagliatelle al Ragù",
+    "description": "Fresh egg pasta with slow-cooked meat ragù.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tagliatelle_al_ragu.jpg"
+  },
+  {
+    "city": "Turin",
+    "food": "Agnolotti del Plin",
+    "description": "Pinched pasta parcels stuffed with roasted meats.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Agnolotti_del_plin.jpg"
+  },
+  {
+    "city": "Palermo",
+    "food": "Arancine",
+    "description": "Golden fried rice balls with ragù or cheese fillings.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Arancini_italian.jpg"
+  },
+  {
+    "city": "Catania",
+    "food": "Pasta alla Norma",
+    "description": "Tomato sauce with fried eggplant and ricotta salata.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Pasta_alla_Norma.jpg"
+  },
+  {
+    "city": "Bari",
+    "food": "Orecchiette alle Cime di Rapa",
+    "description": "Ear-shaped pasta with broccoli rabe, garlic, and chili.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Orecchiette_alle_cime_di_rapa.jpg"
+  },
+  {
+    "city": "Genoa",
+    "food": "Pesto alla Genovese",
+    "description": "Basil, pine nut, and pecorino sauce tossed with trofie.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Pesto_alla_Genovese.jpg"
+  },
+  {
+    "city": "Verona",
+    "food": "Risotto all'Amarone",
+    "description": "Rich risotto cooked with Amarone red wine.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Risotto_all%27Amarone.jpg"
+  },
+  {
+    "city": "Parma",
+    "food": "Tortelli d'Erbetta",
+    "description": "Stuffed pasta with ricotta, herbs, and Parmigiano-Reggiano.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tortelli_d%27erbetta.jpg"
+  },
+  {
+    "city": "Pisa",
+    "food": "Cecina",
+    "description": "Thin chickpea flatbread baked until crisp.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Cecina.jpg"
+  },
+  {
+    "city": "Siena",
+    "food": "Panforte",
+    "description": "Dense spiced cake with nuts and candied fruit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Panforte.jpg"
+  },
+  {
+    "city": "Perugia",
+    "food": "Strangozzi al Tartufo",
+    "description": "Hand-rolled pasta with black truffle and olive oil.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Strangozzi_al_tartufo.jpg"
+  },
+  {
+    "city": "Trento",
+    "food": "Canederli",
+    "description": "Bread dumplings with speck and alpine herbs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Canederli.jpg"
+  },
+  {
+    "city": "Trieste",
+    "food": "Jota",
+    "description": "Hearty soup of beans, sauerkraut, and potatoes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Jota.jpg"
+  },
+  {
+    "city": "Lecce",
+    "food": "Pasticciotto",
+    "description": "Shortcrust pastry filled with custard cream.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pasticciotto.jpg"
+  },
+  {
+    "city": "Modena",
+    "food": "Tortellini in Brodo",
+    "description": "Ring-shaped pasta served in rich meat broth.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tortellini_in_brodo.jpg"
+  },
+  {
+    "city": "Messina",
+    "food": "Pidoni",
+    "description": "Fried turnovers with escarole, cheese, and anchovies.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Pidoni.jpg"
+  },
+  {
+    "city": "Cagliari",
+    "food": "Fregola con Arselle",
+    "description": "Toasted semolina pearls with clams and tomato.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Fregola_con_arselle.jpg"
+  },
+  {
+    "city": "Ancona",
+    "food": "Brodetto all'Anconetana",
+    "description": "Adriatic fish stew with tomatoes and herbs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Brodetto_di_pesce.jpg"
+  },
+  {
+    "city": "Rimini",
+    "food": "Piadina Romagnola",
+    "description": "Soft flatbread filled with cheese, greens, or meats.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Piadina_romagnola.jpg"
+  },
+  {
+    "city": "Aosta",
+    "food": "Fonduta Valdostana",
+    "description": "Melted Fontina cheese served with bread.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Fonduta.jpg"
+  }
+]

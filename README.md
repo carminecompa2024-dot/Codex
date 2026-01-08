@@ -59,6 +59,13 @@ Command Line Interfaces (CLIs) are tools that can be accessed exclusively from t
   - [yargs](./cli/yargs)
     - [countEntriesInDirectory](./cli/yargs/countEntriesInDirectory): A small command line tool that shows how to use yargs and Node.js together, leveraging Node.js's `path` and `fs` modules to read a directory passed by the CLI user
 
+### Applications
+
+Standalone application examples that showcase Node.js in larger projects.
+
+- [Applications](./applications)
+  - [italian-food-cities](./applications/italian-food-cities): A web app that maps Italian cities to typical foods with photos
+
 ## Contributing
 
 We've documented how to meaningfully contribute in [CONTRIBUTING.md](./CONTRIBUTING.md) 🤗
