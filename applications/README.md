@@ -13,3 +13,7 @@ Anything that can be considered a standalone application. For example:
 ## Contributing to Examples
 
 If you're interested in seeing more examples of applications or want to help maintain the current examples, we more than welcome your contribution! See [CONTRIBUTING.md](../CONTRIBUTING.md) for more details 🤗
+
+## Applications
+
+- [italian-food-cities](./italian-food-cities): A web app that maps Italian cities to typical foods with photos

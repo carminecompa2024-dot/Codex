@@ -1,0 +1,10 @@
+{
+  "name": "italian-food-cities",
+  "version": "1.0.0",
+  "description": "Web app that maps Italian cities to typical foods with photos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
